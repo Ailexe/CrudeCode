@@ -16,7 +16,7 @@ void heapSort(int[] array){
   for (int i = array.length - 1; i > 0; i--) {
     //ヒープの一番深い値と根を入れ替え値を確定する
     swap(0, i, array);
-    //ヒープの並び替えをやり直す
+    //根についてヒープの並び替えをやり直す
     downheap(0, i - 1, array);
   }
 }
