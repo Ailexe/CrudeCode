@@ -50,7 +50,7 @@ void downheap(int k, int r, int[] array) {
 
 // 要素の交換
 void swap(int i, int j, int[] array) {
-  int tmp = array[i];
+  int temp = array[i];
   array[i] = array[j];
-  array[j] = tmp;
+  array[j] = temp;
 }
