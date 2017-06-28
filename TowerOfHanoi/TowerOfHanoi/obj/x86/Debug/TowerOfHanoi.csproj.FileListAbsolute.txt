@@ -1,0 +1,5 @@
+/Users/fukuchi/Projects/TowerOfHanoi/TowerOfHanoi/bin/Debug/TowerOfHanoi.exe
+/Users/fukuchi/Projects/TowerOfHanoi/TowerOfHanoi/bin/Debug/TowerOfHanoi.pdb
+/Users/fukuchi/Projects/TowerOfHanoi/TowerOfHanoi/obj/x86/Debug/TowerOfHanoi.csproj.CoreCompileInputs.cache
+/Users/fukuchi/Projects/TowerOfHanoi/TowerOfHanoi/obj/x86/Debug/TowerOfHanoi.exe
+/Users/fukuchi/Projects/TowerOfHanoi/TowerOfHanoi/obj/x86/Debug/TowerOfHanoi.pdb

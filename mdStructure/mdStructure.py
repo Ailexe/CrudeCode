@@ -81,5 +81,3 @@ if __name__ == "__main__":
     tags = taggedLines(lines)
     dic = makeDict(lines, tags)
     getElement(dic, args)
-
-

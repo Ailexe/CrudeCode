@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{68C912DE-3440-460C-A265-E674C43B8B45}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TowerOfHanoi/Program.cs">
+    <Files>
+      <File FileName="TowerOfHanoi/Program.cs" Line="59" Column="10" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TowerOfHanoi PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
