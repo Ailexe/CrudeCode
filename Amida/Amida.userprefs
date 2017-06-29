@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{086EDF7C-F814-42C1-A84B-C7086256BE59}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Amida/Program.cs">
+    <Files>
+      <File FileName="Amida/Program.cs" Line="90" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

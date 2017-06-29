@@ -1,0 +1,5 @@
+/Users/fukuchi/Projects/Amida/Amida/bin/Debug/Amida.exe
+/Users/fukuchi/Projects/Amida/Amida/bin/Debug/Amida.pdb
+/Users/fukuchi/Projects/Amida/Amida/obj/x86/Debug/Amida.csproj.CoreCompileInputs.cache
+/Users/fukuchi/Projects/Amida/Amida/obj/x86/Debug/Amida.exe
+/Users/fukuchi/Projects/Amida/Amida/obj/x86/Debug/Amida.pdb
