@@ -141,7 +141,7 @@ namespace Othello
 		//環境向けに形式を整える
 		private String getResultFormat(int black, int white)
 		{
-			return String.Format("{0}-{1}", black, white);
+			return String.Format("{0:D2}-{1:D2}", black, white);
 		}
 	}
 
