@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{9D4AD906-1DA4-4726-B435-9F507D1CA331}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Othello/Program.cs">
+    <Files>
+      <File FileName="Othello/Program.cs" Line="144" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.Othello PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
